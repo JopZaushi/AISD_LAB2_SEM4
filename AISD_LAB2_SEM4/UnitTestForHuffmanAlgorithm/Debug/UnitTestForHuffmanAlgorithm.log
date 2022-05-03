@@ -1,0 +1,17 @@
+﻿  UnitTestForHuffmanAlgorithm.cpp
+D:\Program Files (x86)\programs\AISD_LAB2_SEM4\AISD_LAB2_SEM4\HuffmanAlgorithm.h(148,31): warning C4244: =: преобразование "int" в "float", возможна потеря данных
+D:\Program Files (x86)\programs\AISD_LAB2_SEM4\AISD_LAB2_SEM4\HuffmanAlgorithm.h(78): message : во время компиляции функции-члена класс шаблон "void HuffmanAlgorithm<char,int>::tree_huffman_coding(void)"
+D:\Program Files (x86)\programs\AISD_LAB2_SEM4\UnitTestForHuffmanAlgorithm\UnitTestForHuffmanAlgorithm.cpp(23): message : выполняется компиляция ссылки на экземпляр шаблон функции "void HuffmanAlgorithm<char,int>::tree_huffman_coding(void)"
+D:\Program Files (x86)\programs\AISD_LAB2_SEM4\UnitTestForHuffmanAlgorithm\UnitTestForHuffmanAlgorithm.cpp(16): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "HuffmanAlgorithm<char,int>"
+D:\Program Files (x86)\programs\AISD_LAB2_SEM4\AISD_LAB2_SEM4\HuffmanAlgorithm.h(376,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Program Files (x86)\programs\AISD_LAB2_SEM4\AISD_LAB2_SEM4\HuffmanAlgorithm.h(366): message : во время компиляции функции-члена класс шаблон "HuffmanAlgorithm<char,int>::node *HuffmanAlgorithm<char,int>::at(size_t)"
+D:\Program Files (x86)\programs\AISD_LAB2_SEM4\AISD_LAB2_SEM4\HuffmanAlgorithm.h(111): message : выполняется компиляция ссылки на экземпляр шаблон функции "HuffmanAlgorithm<char,int>::node *HuffmanAlgorithm<char,int>::at(size_t)"
+D:\Program Files (x86)\programs\AISD_LAB2_SEM4\AISD_LAB2_SEM4\List.h(127,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Program Files (x86)\programs\AISD_LAB2_SEM4\AISD_LAB2_SEM4\List.h(117): message : во время компиляции функции-члена класс шаблон "List<char,int>::node *List<char,int>::at(size_t)"
+D:\Program Files (x86)\programs\AISD_LAB2_SEM4\AISD_LAB2_SEM4\HuffmanAlgorithm.h(85): message : выполняется компиляция ссылки на экземпляр шаблон функции "List<char,int>::node *List<char,int>::at(size_t)"
+D:\Program Files (x86)\programs\AISD_LAB2_SEM4\AISD_LAB2_SEM4\HuffmanAlgorithm.h(46): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "List<char,int>"
+D:\Program Files (x86)\programs\AISD_LAB2_SEM4\AISD_LAB2_SEM4\HuffmanAlgorithm.h(403): message : выполняется компиляция ссылки на экземпляр класс шаблон функции "HuffmanAlgorithm<T1,T2>"
+D:\Program Files (x86)\programs\AISD_LAB2_SEM4\AISD_LAB2_SEM4\List.h(106,23): warning C4018: <: несоответствие типов со знаком и без знака
+D:\Program Files (x86)\programs\AISD_LAB2_SEM4\AISD_LAB2_SEM4\List.h(95): message : во время компиляции функции-члена класс шаблон "void List<char,int>::remove(size_t)"
+D:\Program Files (x86)\programs\AISD_LAB2_SEM4\AISD_LAB2_SEM4\HuffmanAlgorithm.h(65): message : выполняется компиляция ссылки на экземпляр шаблон функции "void List<char,int>::remove(size_t)"
+  UnitTestForHuffmanAlgorithm.vcxproj -> D:\Program Files (x86)\programs\AISD_LAB2_SEM4\Debug\UnitTestForHuffmanAlgorithm.dll
